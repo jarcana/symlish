@@ -11,7 +11,7 @@ if "%~1"=="" (
   echo          If the file exists, and does not match, create symlink.
   echo        - All other cases will error with a message, like this one!
   echo
-  echo        Written by: Jenny Arcana, 2023, GPLv3
+  echo        v4.0 Written by: Jenny Arcana, 2023, GPLv3
   exit /b 1
 )
 
